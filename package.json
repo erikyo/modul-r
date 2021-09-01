@@ -47,7 +47,7 @@
     "gulp-wp-pot": "^2.5.0",
     "gulp-zip": "^5.1.0",
     "imagemin-webp": "^6.0.0",
-    "postcss": "8.0.0",
+    "postcss": "8.2.10",
     "sass": "^1.38.0"
   }
 }
